@@ -1,0 +1,6 @@
+# Ignore the entire dogs_vs_cats folder
+Dataset/dogs_vs_cats/
+
+# Ignore all .jpg and .png files in the project
+*.jpg
+*.png
